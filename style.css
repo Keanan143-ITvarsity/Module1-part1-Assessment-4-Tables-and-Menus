@@ -1,0 +1,43 @@
+h1{
+    color:purple;
+    font-family: cursive;
+}
+
+p{
+    color:maroon;
+    font-family: serif;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png')
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: blueviolet;
+    color: #ffffff; 
+    font-family: Helvetica, sans-serif
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #9A35BD
+}
+
+th{
+    font-weight: 800;
+    background-color: #9A35BD;
+    color: white;
+}
